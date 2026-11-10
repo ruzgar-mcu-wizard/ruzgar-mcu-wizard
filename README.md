@@ -1,56 +1,53 @@
-# ⚡ Rüzgar The MCU Wizard
+# ⚡ Rüzgar — MCU Wizard
 
-**Embedded Systems • Microcontrollers • Hardware • Software**
+**Electronics · Embedded Systems · Microcontrollers · Software**
 
-Hey! I'm Rüzgar, an electronics and software enthusiast from Türkiye.
+Hey! I'm Rüzgar. I like building things that combine hardware and software: microcontroller projects, little utilities, PCB experiments, and network-connected devices.
 
-I enjoy building microcontroller projects, designing PCBs, experimenting with networking, and creating tools that make development easier.
+My workbench is usually somewhere between an ESP32, a serial adapter, a pile of jumper wires, and a terminal window.
 
-Basically, I like making hardware do things it probably wasn't supposed to do. 
+## 🔧 What I work with
 
-## 🔧 What I Work With
+| Area | Tools and technologies |
+| --- | --- |
+| Microcontrollers | ESP32, ESP8266, RP2040 |
+| Firmware | C, C++, Arduino, ESPHome |
+| Programming | Python, HTML, CSS |
+| Hardware | PCB design, EasyEDA, sensors, flash memory |
+| Networking | Wi-Fi, HTTP servers, embedded networking |
+| Platforms | Windows, Linux, Home Assistant |
 
-- **Microcontrollers:** ESP32, ESP8266, RP2040
-- **Programming:** C/C++, Python
-- **Embedded Development:** Arduino, firmware development, hardware debugging
-- **Hardware:** PCB design, EasyEDA, component-level electronics
-- **Networking:** Wi-Fi, Ethernet, HTTP servers, embedded networking
-- **Platforms:** Windows, Linux
+## 🚀 Featured projects
 
-## 🚀 Featured Projects
+### Embedded systems & hardware
 
-### [ESP32 Webamp Server](https://github.com/ruzgar-mcu-wizard/esp32-webamp-server)
-Host an entire Webamp website directly from an ESP32 using FFat, with web-based Wi-Fi configuration, file uploading, and filesystem management.
+- **[ESP32 Webamp Server](https://github.com/ruzgar-mcu-wizard/esp32-webamp-server)** — Host a Webamp-based music player website from an ESP32 using its FFat filesystem, with Wi-Fi configuration and browser-based file management.
+- **[ESP32 Toolbox](https://github.com/ruzgar-mcu-wizard/esp32-toolbox)** — Windows utilities for flashing ESP32 firmware and using Espressif tools through graphical and console interfaces.
+- **[TQFP32 / QFN32 Breakout Board](https://github.com/ruzgar-mcu-wizard/tqfp32-qfn32-breakout)** — A compact 20.32 × 20.32 mm PCB design for 32-pin surface-mount microcontrollers.
 
-### [ESP32 Toolbox](https://github.com/ruzgar-mcu-wizard/esp32-toolbox)
-A complete collection of Windows utilities for ESP32 development. Includes ESP32-Flasher for firmware programming, ESP-Tools-Studio for working with Espressif's esptool, espefuse, and espsecure utilities, and exe-Builder for compiling standalone applications. Provides graphical interfaces, console-enabled builds, bundled tools, and Python source code.
+### Windows utilities & drivers
 
-### [CP210x Windows Drivers](https://github.com/ruzgar-mcu-wizard/CP210x-Windows-Drivers)
-A universal Windows driver installation package for Silicon Labs CP210x USB-to-UART bridge devices. Includes the original vendor driver files and a command-line installer using Windows PnPUtil, supporting multiple CPU architectures.
+- **[CP210x Windows Drivers](https://github.com/ruzgar-mcu-wizard/CP210x-Windows-Drivers)** — A PnPUtil-based installer for the Silicon Labs CP210x USB-to-UART driver package.
+- **[WCH CH34x / CH91xx Windows Drivers](https://github.com/ruzgar-mcu-wizard/WCH-CH34x-CH91xx-Windows-Drivers)** — A command-line installation helper for WCH USB-to-serial drivers.
+- **[RTL8812CU Drivers for Windows](https://github.com/ruzgar-mcu-wizard/rtl8812cu-drivers-for-windows)** — Windows driver resources and installation documentation for RTL8812CU adapters.
 
-### [WCH CH34x / CH91xx Windows Drivers](https://github.com/ruzgar-mcu-wizard/WCH-CH34x-CH91xx-Windows-Drivers)
-A universal Windows driver installation package for WCH USB-to-Serial controllers. Includes the original WCH driver package and a lightweight PnPUtil-based installer, with automatic hardware ID matching and architecture selection.
+### Other projects
 
-### [RTL8812CU Drivers for Windows](https://github.com/ruzgar-mcu-wizard/rtl8812cu-drivers-for-windows)
-A convenient Windows driver installation package for RTL8812CU USB Wi-Fi adapters, including manual installation files and troubleshooting documentation.
+- **[Pinguino IDE](https://github.com/ruzgar-mcu-wizard/pinguino-ide)** — A repository containing the Pinguino IDE 13 codebase.
+- **[GitHub Pages website](https://ruzgar-mcu-wizard.github.io/)** — My personal project page.
 
-### [TQFP32 / QFN32 Breakout Board](https://github.com/ruzgar-mcu-wizard/tqfp32-qfn32-breakout)
-A compact 20.32 × 20.32 mm PCB breakout design for TQFP32 and QFN32 microcontrollers.
+## 🧪 What I'm interested in
 
-## 🛠️ Current Interests
+- Making microcontrollers do useful (and occasionally ridiculous) things
+- Embedded web servers, Wi-Fi and local networks
+- Flash storage, firmware and hardware debugging
+- Designing small PCBs and working with surface-mount parts
+- Building practical Windows tools for electronics development
 
-- ESP32 and ESP8266 development
-- Embedded networking and storage
-- Flash memory and hardware modifications
-- PCB design and electronics experimentation
-- Windows development utilities
+## 📦 Explore
 
-## 📂 More About My Projects
-
-Check out my [repositories](https://github.com/ruzgar-mcu-wizard?tab=repositories) for more experiments, tools, hardware designs, and software projects.
-
----
+Most of my work is in the repositories on this profile. Source code, hardware files, installation notes and project-specific details live alongside each project.
 
 **Build it. Flash it. Debug it. Repeat.** ⚡
 
-*Powered by curiosity, questionable hardware decisions, and way too many microcontrollers.*
+*Powered by curiosity, questionable wiring decisions, and way too many microcontrollers.*
