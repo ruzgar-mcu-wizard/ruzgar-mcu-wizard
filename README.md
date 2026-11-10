@@ -1,4 +1,4 @@
-# ⚡ Rüzgar — MCU Wizard
+# ⚡ Rüzgar - MCU Wizard
 
 **Electronics · Embedded Systems · Microcontrollers · Software**
 
@@ -21,20 +21,20 @@ My workbench is usually somewhere between an ESP32, a serial adapter, a pile of 
 
 ### Embedded systems & hardware
 
-- **[ESP32 Webamp Server](https://github.com/ruzgar-mcu-wizard/esp32-webamp-server)** — Host a Webamp-based music player website from an ESP32 using its FFat filesystem, with Wi-Fi configuration and browser-based file management.
-- **[ESP32 Toolbox](https://github.com/ruzgar-mcu-wizard/esp32-toolbox)** — Windows utilities for flashing ESP32 firmware and using Espressif tools through graphical and console interfaces.
-- **[TQFP32 / QFN32 Breakout Board](https://github.com/ruzgar-mcu-wizard/tqfp32-qfn32-breakout)** — A compact 20.32 × 20.32 mm PCB design for 32-pin surface-mount microcontrollers.
+- **[ESP32 Webamp Server](https://github.com/ruzgar-mcu-wizard/esp32-webamp-server)** - Host a Webamp-based music player website from an ESP32 using its FFat filesystem, with Wi-Fi configuration and browser-based file management.
+- **[ESP32 Toolbox](https://github.com/ruzgar-mcu-wizard/esp32-toolbox)** - Windows utilities for flashing ESP32 firmware and using Espressif tools through graphical and console interfaces.
+- **[TQFP32 / QFN32 Breakout Board](https://github.com/ruzgar-mcu-wizard/tqfp32-qfn32-breakout)** - A compact 20.32 × 20.32 mm PCB design for 32-pin surface-mount microcontrollers.
 
 ### Windows utilities & drivers
 
-- **[CP210x Windows Drivers](https://github.com/ruzgar-mcu-wizard/CP210x-Windows-Drivers)** — A PnPUtil-based installer for the Silicon Labs CP210x USB-to-UART driver package.
-- **[WCH CH34x / CH91xx Windows Drivers](https://github.com/ruzgar-mcu-wizard/WCH-CH34x-CH91xx-Windows-Drivers)** — A command-line installation helper for WCH USB-to-serial drivers.
-- **[RTL8812CU Drivers for Windows](https://github.com/ruzgar-mcu-wizard/rtl8812cu-drivers-for-windows)** — Windows driver resources and installation documentation for RTL8812CU adapters.
+- **[CP210x Windows Drivers](https://github.com/ruzgar-mcu-wizard/CP210x-Windows-Drivers)** - A PnPUtil-based installer for the Silicon Labs CP210x USB-to-UART driver package.
+- **[WCH CH34x / CH91xx Windows Drivers](https://github.com/ruzgar-mcu-wizard/WCH-CH34x-CH91xx-Windows-Drivers)** - A command-line installation helper for WCH USB-to-serial drivers.
+- **[RTL8812CU Drivers for Windows](https://github.com/ruzgar-mcu-wizard/rtl8812cu-drivers-for-windows)** - Windows driver resources and installation documentation for RTL8812CU adapters.
 
 ### Other projects
 
-- **[Pinguino IDE](https://github.com/ruzgar-mcu-wizard/pinguino-ide)** — A repository containing the Pinguino IDE 13 codebase.
-- **[GitHub Pages website](https://ruzgar-mcu-wizard.github.io/)** — My personal project page.
+- **[Pinguino IDE](https://github.com/ruzgar-mcu-wizard/pinguino-ide)** - A repository containing the Pinguino IDE 13 codebase.
+- **[GitHub Pages website](https://ruzgar-mcu-wizard.github.io/)** - My personal project page.
 
 ## 🧪 What I'm interested in
 
